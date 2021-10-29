@@ -1,3 +1,7 @@
+"""
+Name:   Rawlings Ozeh
+Project: Python Project Stage 1; Voice Assistance (Alexa)
+"""
 import pyjokes
 import pyttsx3 as p
 import speech_recognition as sr
